@@ -1,20 +1,13 @@
-# Kangaroo Garage — site GitHub Pages
+# Kangaroo Garage — GitHub Pages website
 
-Site static în limba română pentru Kangaroo Garage, Southport.
+English-language static website for Kangaroo Garage, Southport, UK.
 
-## Publicare pe GitHub Pages
+## Update the live website
 
-1. Creează un repository nou pe GitHub, de exemplu `kangaroo-garage`.
-2. Încarcă în rădăcina repository-ului fișierele `index.html`, `style.css`, `script.js` și `favicon.svg` (nu este nevoie să încarci ZIP-ul ca atare).
-3. Accesează **Settings → Pages**.
-4. La **Build and deployment**, alege **Deploy from a branch**, apoi `main` și `/(root)`. Salvează.
-5. Linkul va fi de forma `https://NUME-UTILIZATOR.github.io/kangaroo-garage/` dacă repository-ul se numește `kangaroo-garage`.
+Upload the updated `index.html` and `script.js` to the **root** of your existing `kangaroo-garage` repository, replacing the files already there. Commit the changes. GitHub Pages will republish automatically; there is no need to configure Pages again.
 
-## Date de completat
+## Notes
 
-- Programul de lucru: nu a fost furnizat; nu este publicat.
-- Adresa exactă: nu a fost furnizată; harta indică doar Southport.
-- Mașinile disponibile: nu au fost furnizate; nu sunt afișate anunțuri fictive.
-- Butonul WhatsApp folosește numărul 07440 015407. Confirmă că acest număr are WhatsApp activ.
-
-Fișierele sunt statice și nu necesită server, build sau dependențe externe.
+- Opening hours and the exact street address have not been supplied, so they are not shown.
+- Vehicle listings have not been supplied, so no cars are invented or advertised.
+- The WhatsApp link uses +44 7440 015407; confirm that this number is WhatsApp-enabled.
